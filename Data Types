@@ -1,0 +1,37 @@
+Integers
+- int
+- negative or positive
+- finite range
+
+import sys
+sys.int_info
+sys.int_info(bits_per_digit=30, sizeof_digit=4, default_max_str_digits=4300, 
+str_digits_check_threshold=640)
+
+Real Numbers
+- float
+- include integers but also numbers in between
+- zooming in for different numbers
+
+import sys
+sys.float_info
+sys.float_info(max=1.7976931348623157e+308, max_exp=1024, max_10_exp=308, 
+min=2.2250738585072014e-308, min_exp=-1021, min_10_exp=-307, dig=15, mant_dig=53, 
+epsilon=2.220446049250313e-16, radix=2, rounds=1)
+
+Words (sequence of characters)
+- str
+
+Boolean (True or False)
+- bool
+
+Different data types
+
+Typecasting
+- convert int to a float for example
+- cast float to integer --> information loss
+- if we convert string containing non int value will cause error
+- cast boolean True to int or float gives 1
+- cast boolean Flase to int or float gives 0
+- cast 1 to boolean gives True
+- cast 0 to boolean gives False
