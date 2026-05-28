@@ -1,1 +1,37 @@
+Indentify the users of Python:
+- People who already know how to program
+- People who want to learn to program
+- Over 80% of data professionals worldwide
+- Areas like data science, AI and machine learning, web dev, and IoT with device
+  like Raspberry Pi
+- Large organizations like IBM, Wikipedia, Google, Yahoo!, CERN, NASA, Facebook, 
+  Amazon, Instagram, Spotify and Reddit
 
+List the benefits of using Python
+- High-level general purpose language
+- Large standard library (databases, automation, web sraping, text processing,
+  image processing, machine learning, data analytics etc.)
+- For Data Science it has scientific computing libraries like Pandas, NumPy, SciPy,
+  and Matplotlib
+- For AI it has libraries like TensorFlow, PyTorch, Keras, and Scikit-learn
+- Can be used for Natural Language Processing (NLP) using Natural Language 
+  Tookit (NLTK)
+
+
+Describe the diversity and inclusion efforts of the Python community
+- Diversity Statement: "The Python Software Foundation and the global Python
+  community welcome and encourage participation by everyone. Our community is
+  based on mutual respect, tolerance, and encouragement, and we are working to help
+  each other live up to these principles. We wan our community to be more diverse:
+  whoever you are, and whatever your background, we welcome you." 
+  Adopted October 12, 2009.
+- pyladies: International mentorship group with a focus on helping more women
+  become active participants and leaders in the Python open-source community.
+
+Summary
+- Python uses clear and readable syntax
+- Python has a huge global community and wealth of documentation
+- For data science you can use Pythons scientific and computing libraries
+- Python can also be used for NLP using NLTK
+- Python community has a well-documented history for paving the way for diversity
+  and includion efforts in the tech industry as a whole
