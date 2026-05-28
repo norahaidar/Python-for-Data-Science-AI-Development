@@ -1,0 +1,32 @@
+Jupyter
+- freely available web application
+- enables creation and sharing of document containing equations, live coding,
+  visualizations, and narrative text
+- provides an interacting computing environment that supports multiple programming
+  languages, including Python, R, Julia and more
+- shines brightest when used with Python
+- revolves around notebooks, documents containing a mix of code, visualizations,
+  narrative text, equations and multimedia content
+- these notebooks allow users to create, share, and collaborate on computational
+  projects seamlessly
+
+Why Jupyter?
+- flexibility and easy of use
+- intuitive platform for writing, testing, and sharing code
+- interactive interface enables data exploration, algorithm experimentation
+  and result visualization all seamlessly integrated within a unified environment
+
+Key Features of Jupyter
+- Interactive Computing
+- Support for Mutliple Languages
+- Rich Output
+- Integrations with Data Science Libraries
+
+Jupyter in Data Science
+- indispensable tool for researchers, analusts and developrs
+- seamless integration with popular libraries (NumPy, pandas, sci-kit-learn)
+  makes it the go-to choise for data manipulation, analysis, and machine learning
+- user-friendly interface, interactive capablities, and robust collaboration features
+- essential tool for anyone involved in data analysis, scientific research, education
+  or software development
+- empowers you to work for efficiently and share your insights with other
