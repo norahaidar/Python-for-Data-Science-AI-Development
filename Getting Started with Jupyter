@@ -1,0 +1,20 @@
+How to run, insert and delete a cell in a notebook
+- file, rename notebook, code and run (run selected or all cells)
+- plus symbol to add a new cell (edit to delete cell)
+
+Work with multiple notebooks
+- click plus button on the toolbar and select the file you want to open
+- alternatively click file (New launcher)
+- you can place notebooks side by side
+
+
+Present the notebook
+- create markdown to add titles (code --> mardown)
+- slides functionality allows you to deliver code, visualization, text
+  and outputs of the executed codes as part of a project
+
+Shut down the notebook session
+- releases their memory
+- click stop icon on the sidebar (terminate all sessional at once or 
+  shut them down indivualiy)
+- "no kernel" at the top right
