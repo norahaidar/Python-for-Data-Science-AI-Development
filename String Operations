@@ -24,6 +24,7 @@ string methods
 - .replace()
 - .find():int
 - .split()
+- .findall() 
 
 string interpolation (f-strings)
 - format strings and use curly braces {} to enclose the variables to be formatted
