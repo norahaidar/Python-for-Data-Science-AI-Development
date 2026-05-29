@@ -1,0 +1,37 @@
+a string is an ordered sequence of characters
+- contained within 2 quotes
+- can be spaces or digits
+- can also be special characters
+- can be indexed 
+- can use positive (0 to n) or negative indexing (-n to -1)
+- slicing binds to another variable
+- stride str[..index] or str[int1:int2:int3] get every int3 element 
+  in the rande from int1 to int2
+- len() command
+- concatenation (+ command)
+- tuples (replication)
+- \ are meant to proceed escape sequences
+- \n represents new line
+- \t represents a tab
+- \\ to place backslash in string
+- r in front of string
+
+string methods
+- sequence methods
+- string methods
+- A -> method -> B
+- .upper()
+- .replace()
+- .find():int
+- .split()
+
+string interpolation (f-strings)
+- format strings and use curly braces {} to enclose the variables to be formatted
+
+RegEx
+- import re
+- search
+- split
+- findall
+- sub
+
