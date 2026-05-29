@@ -1,1 +1,32 @@
+Tuples
+- ordered sequence
+- comme separated elements within parenthesis ()
+- str, int, float can be contained in a tuple
+- the type of the variable is tuple
+- elements accessed via an index tuple[]
+- you can use negative indexing 
+- concatenate / combine
+- slicing
+- use len() to find length of the tuple
+- immutable --> can't change index
+- to manipulate tuple create new object
+- nesting
+
+Lists
+- ordered sequences
+- represeted with square brackets []
+- mutable
+- can contain str, float, int
+- indexing / negative indexing []
+- slicing
+- concatenate / combine
+- can be changed .extend([]) method
+- appending .append([])
+- del(list_name[index]) command 
+- .split 
+- aliasing 
+- cloning 
+
+
+
 
